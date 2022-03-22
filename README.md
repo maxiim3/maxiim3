@@ -6,10 +6,10 @@ C’est fin 2021, après 1 an et demi d’auto-formation en parallèle de mon 
 que j'entame , sûr et déterminé, une reconversion professionnelle.
 
 ---
-🎓   *Formation* :  Développeur Full Stack chez O'clock.   
-💡   Actuellement à la recherche d'une alternance 
-📆   *Durée* : 16 mois (juin 2022 / octobre 2023)
-🔄   *Rythme* : 3 jours en entreprise, 2 jours en formation
+- 🎓   *Formation* :  Développeur Full Stack chez O'clock.   
+- 💡   Actuellement à la recherche d'une alternance 
+- 📆   *Durée* : 16 mois (juin 2022 / octobre 2023)
+- 🔄   *Rythme* : 3 jours en entreprise, 2 jours en formation
 
 La Formation Développeur Full Stack chez O’Clock va me permettre d’être complet et opérationnel pour développer des applications et des site
 *conception, architecture, développement, testings, sécurité, déploiement, Symphony, Node, React …*
@@ -28,7 +28,9 @@ En ce moment  je me forme sur React et Django.
 *gestion du stress, prise de décision, autonomie, dynamisme, management, transmission du savoir, gestion du temps, travail d'équipe*
 
 🌐   [Plus d’informations sur mon site internet ➠ maxii.me](https://maxii.me)
+
 [Linked in](https://www.linkedin.com/in/maxime-tamburrini-7048895a/)
+
 [IMDB](https://www.imdb.com/name/nm5708197/?ref_=fn_al_nm_1)
 
 ---
