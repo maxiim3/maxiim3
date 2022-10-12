@@ -8,6 +8,6 @@ Mes technos : JavaScript, TypeScript, HTML, CSS, SASS, Tailwind, React, NodeJS, 
 
 ---
 
-Créateur et Web Master de https://sestini-piza.fr
+Créateur et Web Master de https://sestini-pizza.fr
 
 mon site : https://maxime-tamburrini.com
