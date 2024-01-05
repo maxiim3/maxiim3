@@ -1,7 +1,9 @@
 Web Developer from France.
 Speak French, english and a couple of slavic languages.
 
-Coding a building up things.
+Coding and building up things.
+I like to design, imagine, and take actions.
+
 
 Current specialisation : Front-end React, Next.js, Javascript-Typescript. All kind of CSS libs and frameworks.
 Familiar with Other Front-end framework like Angular, Svelte etc... I tried them all.
