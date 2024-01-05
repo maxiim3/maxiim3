@@ -15,7 +15,6 @@ I'm a [Vim lover](https://neovim.io)
 Also like design, music, science, sport, ecology and sustainable inovations... and a lot of stuff.
 
 You can reach out to collaborate, work, or just chat :
-------------------------------
+
 - [Twitter : @maxiim3488](https://twitter.com/maxiim3488)
 - [Linked in](https://www.linkedin.com/in/maxime-tamburrini-7048895a/)
-------------------------------
