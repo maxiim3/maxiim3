@@ -8,7 +8,7 @@ I like to design, imagine, and take actions.
 - Current specialisation : Front-end [React](https://react.dev), [Next.js](https://nextjs.org), Javascript-Typescript. All kind of CSS libs and frameworks.
 Familiar with Other Front-end framework like Angular, Svelte etc... I tried the most popular ones.
 
-- Currently improving skills upon architecture, design patterns and alorithms.
+- Currently improving skills upon architecture, design patterns and algorithms.
 
 - Currently learning and playing around with : Rust, Go, Linux, Nginx, Postgres, Sqlite... Cool back end stuff.
 I want to handle more complex business logics for web applications, and have more control over performance and security.
