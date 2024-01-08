@@ -18,5 +18,5 @@ I want to handle more complex business logics for web applications, and have mor
 
 You can reach out to collaborate, work, or just chat :
 
-- [Twitter : @maxiim3488](https://twitter.com/maxiim3488)
+- [Twitter : @maxiim3488](https://twitter.com/max_webstudio)
 - [Linked in](https://www.linkedin.com/in/maxime-tamburrini-7048895a/)
