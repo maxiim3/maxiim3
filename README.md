@@ -1,4 +1,4 @@
-I am a Front End Developer from France
+I am a Front End Software Engineer from France
 
 In a few Words...
 - 👨‍💻 Javascript/Typescript, React/Next, Vue/Nuxt, MongoDB/SQL, All kinds of CSS pradigms and libraries, (Do I need to mention HTML ?) 
