@@ -10,13 +10,6 @@ In a few Words...
 
 Chat and Share : 
 - [Twitter](https://twitter.com/max_webstudio)
-- [Linked-in](https://www.linkedin.com/in/maxime-tamburrini-7048895a/)
-
-Work and collaborate :
-- [Malt](https://www.malt.fr/profile/maximetamburrini) 
-
-I own and slowly develop :
-- [Digital Solution Studio](https://www.digitalsolution.studio)
 
 
 
