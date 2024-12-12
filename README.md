@@ -1,15 +1,14 @@
-I am a Front End Software Engineer from France
-
-In a few Words...
-- 👨‍💻 Javascript/Typescript, React/Next, Vue/Nuxt, NoSQL/SQL, All kinds of CSS pradigms and libraries, (Do I need to mention HTML ?) 
-- 👀 Exploting Go and Rust.
-- ⌨️ I'm a Vim motion type of guy (You can judge me)
-- 🔨 I love to design tools that makes our dev-lives easier. [BridegTools](https://github.com/bridgetools) - _coming up_
-- 💚 I also love to design solutions that brings meanings and awarness : [TheGreenThumb](https://github.com/the-greenthumb) - _also coming up_
+I am a front end dev from France.
+- I mostly use TS : React, Vue.js and their associated frameworks.
+- I enjoy creating tools with Go or Rust
+- I am employed in a compagny, and I use Giltab on a daily basis (for the activity monitoring people)
 
 
 Chat and Share : 
-- [Twitter](https://twitter.com/max_webstudio)
+- [Bluesky](https://bsky.app/profile/maxiim3.bsky.social)
+- [The Vuejs Squad](https://dly.to/WkfTHhJlQBK)
+- [The Go Squad](https://dly.to/7k5E6UmlYSS)
+- [The Neovim Squad](https://app.daily.dev/squads/nvim)
 
 
 
