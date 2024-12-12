@@ -8,7 +8,7 @@ Chat and Share :
 - [Bluesky](https://bsky.app/profile/maxiim3.bsky.social)
 - [The Vuejs Squad](https://dly.to/WkfTHhJlQBK)
 - [The Go Squad](https://dly.to/7k5E6UmlYSS)
-- [The Neovim Squad](https://app.daily.dev/squads/nvim)
+- [The Neovim Squad](https://dly.to/cjiKjFrOkxS)
 
 
 
