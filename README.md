@@ -6,5 +6,4 @@ I am a front end dev from France.
 - Strong advocate for a sustainable world and tech
 - Permaculture driven mindset
 
-Chat and Share : 
-- Follow me on [𝕏](https://x.com/maxiim3_dev) - [🦋 Bluesky](https://bsky.app/profile/maxiim3.bsky.social)
+Socials [𝕏](https://x.com/maxiim3_dev) - [🦋 Bluesky](https://bsky.app/profile/maxiim3.bsky.social)
